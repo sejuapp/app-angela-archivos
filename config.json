@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "cathot",
+    "host": "localhost"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": ""
+  },
+  "production": {
+    "username": "AdminCat",
+    "password": "iukDPiq0K3UMgoLN",
+    "database": "cathot",
+    "host": "@cluster-web-cam.xnhky.mongodb.net"
+  }
+}
