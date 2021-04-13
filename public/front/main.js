@@ -100,7 +100,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class ParametrosApp {
     constructor() {
-        this.ApiUrl = 'http://localhost:4009';
+        this.ApiUrl = 'http://35.224.167.234';
         // ApiUrl = 'https://app-procesar-archivos.herokuapp.com';
         this.petUrl = 'api';
     }
