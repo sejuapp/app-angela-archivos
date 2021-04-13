@@ -31,13 +31,13 @@
  
  app.use(express.urlencoded({
    parameterLimit: 1000000,
-   limit: '100mb',
+   limit: '500mb',
    extended: false
  }));
  
  app.use(express.json({
    parameterLimit: 1000000,
-   limit: '100mb',
+   limit: '500mb',
    extended: false
  }));
  
